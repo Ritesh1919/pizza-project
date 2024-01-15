@@ -4,6 +4,7 @@
 <h3 align="center">BackEnd Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ritesh1919&label=Profile%20views&color=0e75b6&style=flat" alt="Ritesh1919" /> </p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ritesh1919&theme=" alt="Ritesh1919" /></a> </p>
 
 - 🔭 I’m currently working on [Pizza Order](https://github.com/Ritesh1919/pizza-project)

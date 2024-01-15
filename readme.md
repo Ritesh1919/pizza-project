@@ -1,4 +1,4 @@
-![Header](https://c8.alamy.com/comp/G9WRBX/informal-business-meeting-G9WRBX.jpg)
+![Header](https://tim-davidson.com/wp-content/uploads/2019/10/github-logo.png)
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
 <h3 align="center">BackEnd Developer</h3>
